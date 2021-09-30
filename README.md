@@ -1,9 +1,11 @@
 # Esto es un repositorio de Prueba
 
-Vamos a utilizarlo para mostrar como usar git y github. Puedo poner *texto en cursiva*. Puedo poner **texto en negrita**.
+Vamos a utilizarlo para mostrar como usar git y Github. Puedo poner *texto en cursiva*. Puedo poner **texto en negrita**.
 
 ## Este es un subtitulo
 
-Voy a agregar una lÏnea que escribÌ localmente en mi computador.
+Voy a agregar una l√≠nea que escrib√≠ localmente en mi computador.
 
-Otra lÌnea m·s
+Otra l√≠nea m√°s
+
+Esta l√≠nea la agregue en GitHub
